@@ -1,4 +1,4 @@
-
+ 
 ```markdown
 🍽️ LLM-Powered Restaurant Idea Generator:
 
