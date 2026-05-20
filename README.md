@@ -2,11 +2,8 @@
 ```markdown
 🍽️ LLM-Powered Restaurant Idea Generator:
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Groq-f37021?style=for-the-badge" alt="Groq" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
 An AI-driven web application that dynamically generates catchy restaurant names and tailored food menus based on a user's selected culinary style. 
-
-Built to demonstrate the orchestration capabilities of **LangChain** combined with Large Language Models and **Streamlit**, this project serves as a practical implementation of LLM chaining, prompt engineering, and rapid web UI development.
+Built to demonstrate the orchestration capabilities of **LangChain** combined with Large Language Models and *Streamlit*, this project serves as a practical implementation of LLM chaining, prompt engineering, and rapid web UI development.
 
 🚀 Features:
 
